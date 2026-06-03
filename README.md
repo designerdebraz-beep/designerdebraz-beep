@@ -63,7 +63,7 @@ I'm a passionate Front-End Developer and Graphic Designer who enjoys creating mo
 
 
 <a href="https://www.facebook.com/">
-<img src="https://cdn.simpleicons.org/facebook" width="48"/>
+<img src="https://www.facebook.com/bivas.pual" width="48"/>
 </a>
 </p>
 
