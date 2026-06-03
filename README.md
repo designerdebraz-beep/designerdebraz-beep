@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://raw.githubusercontent.com/designerdebraz-beep/designerdebraz-beep/main/banner.png" width="100%" alt="Debraz Pul Banner"/>
+<img src="https://i.ibb.co.com/KcpHFK8Q/Debraz-pul.png" width="100%" alt="Debraz Pul Banner"/>
 
 # Hi 👋, I'm Debraz Pul
 
