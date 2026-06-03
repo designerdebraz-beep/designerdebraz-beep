@@ -60,10 +60,13 @@ I'm a passionate Front-End Developer and Graphic Designer who enjoys creating mo
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://debraz-portfilio2.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
 
 
-<a href="https://www.facebook.com/">
-<img src="https://www.facebook.com/bivas.pual" width="48"/>
+<a href="https://www.facebook.com/bivas.pual">
+<img src="https://cdn.simpleicons.org/facebook" width="48"/>
 </a>
 </p>
 
